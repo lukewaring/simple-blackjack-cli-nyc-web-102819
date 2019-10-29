@@ -69,9 +69,6 @@ def runner
   end_game(card_sum)
       
 end
-  
-# >>>>>>> 7d202d4b5ffbc0c6da065280d927bb2531db8b8c
-# end
 
 # 1. Welcome the user
 # 2. Deal them their first two cards, i.e. their initial_round
